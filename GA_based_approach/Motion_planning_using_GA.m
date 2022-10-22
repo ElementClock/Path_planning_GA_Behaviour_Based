@@ -9,7 +9,7 @@ close all
 % Defining number of chromosomes,genomes and max number of generations
 len=20;                 % The length of the genomes  
 popSize=20;             % The size of the population which is number of chromosomes (must be an even number)
-maxGens=3000;           % The maximum number of generations allowed in a run
+maxGens=300;           % The maximum number of generations allowed in a run
 %% Defining obstacles coordinates
 Obstacle_1 = [13 13;17 13;17 17;13 17];
 Obstacle_2 = [33 38;37 38;37 42;33 42];

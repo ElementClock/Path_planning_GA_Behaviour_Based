@@ -7,7 +7,7 @@
 clc 
 clear all
 
-num = 20; % number of robots
+num = 5; % number of robots
 Initial_Positions = 50*rand(num,2); % Random generation of robots in entire plot area
 
 % If robot spawned in obstacle area
